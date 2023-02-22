@@ -12,10 +12,13 @@
   ],
   "author": "Yehor Spyrydonov <extremecode0xff@gmail.com>",
   "license": "ISC",
-  "dependencies": {
-    "chalk": "^5.2.0"
-  },
   "devDependencies": {
+    "eslint": "^8.34.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5",
     "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2"
   }
 }
